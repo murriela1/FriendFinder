@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/murriela1/FriendFinder/issues"
   },
-  "homepage": "https://github.com/murriela1/FriendFinder#readme"
+  "homepage": "https://github.com/murriela1/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
 }
