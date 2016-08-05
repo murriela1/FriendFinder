@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murriela1/FriendFinder.git"
+  },
+  "author": "Andrew Murriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murriela1/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/murriela1/FriendFinder#readme"
+}
